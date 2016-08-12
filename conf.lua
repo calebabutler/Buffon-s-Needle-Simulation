@@ -12,7 +12,7 @@
 -- along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 function love.conf(t)
-  t.window.title = "Math Project"
+  t.window.title = "Buffon's Needle Simulation"
   t.window.width = 706
   t.window.height = 546
   t.console = true
